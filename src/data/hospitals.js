@@ -1,0 +1,28 @@
+export const hospitals = [
+  { id: 1, name: "THOMAS K JUDD MD AND WILLIS-KNIGHTON MEDICAL CENTER", email: "npossell0@a8.net", contact: "496-826-7841", address: "8001 YOUREE DR SUITE 650" },
+  { id: 2, name: "THE REGIONAL MEDICAL CENTER OF ORANGEBURG AND CALHOUN COUNTIES", email: "cspraberry1@freewebs.com", contact: "856-975-2345", address: "PO BOX 11050 " },
+  { id: 3, name: "TAMPA MEDICAL CENTER LLC", email: "freyna2@de.vu", contact: "730-625-3895", address: "5535 MEMORIAL HWY " },
+  { id: 4, name: "IROQUOIS MEMORIAL HOSPITAL", email: "ohards3@biblegateway.com", contact: "542-474-6938", address: "625 S 5TH ST " },
+  { id: 5, name: "GONZALEZ S MEDICAL CENTER INC", email: "wstrattan4@marriott.com", contact: "984-569-8516", address: "935 W 49TH ST STE 103 " },
+  { id: 6, name: "NEBRASKA MEDICAL CENTER", email: "vmcrinn5@myspace.com", contact: "270-793-2603", address: "4200 DOUGLAS ST " },
+  { id: 7, name: "TAHOE FOREST HOSPITAL DISTRICT", email: "scomerford6@narod.ru", contact: "202-762-8175", address: "10121 PINE AVE " },
+  { id: 8, name: "JAMES A. HALEY VA HOSPITAL", email: "cgotecliffe7@theatlantic.com", contact: "635-606-4697", address: "2510 CULBREATH COVE CT " },
+  { id: 9, name: "BASSETT ARMY COMMUNITY HOSPITAL", email: "awearing8@flickr.com", contact: "955-675-4186", address: "1060 GAFFNEY RD BLDG 4065 " },
+  { id: 10, name: "BANNER - UNIVERSITY HOSPITAL BASED PHYSICIANS LLC", email: "aruben9@bigcartel.com", contact: "778-507-3238", address: "2901 N CENTRAL AVE STE 160 " },
+  { id: 11, name: "SETON MEDICAL CENTER AUSTIN", email: "gseida@phoca.cz", contact: "854-164-5435", address: "1201 W 38TH ST ICU APN OFFICE, 1ST FLOOR ICU" },
+  { id: 12, name: "ABINGTON MEMORIAL HOSPITAL", email: "egianullob@umich.edu", contact: "649-175-3328", address: "1339 EASTON RD " },
+  { id: 13, name: "ABINGTON MEMORIAL HOSPITAL", email: "smylechreestc@google.fr", contact: "229-462-6484", address: "PO BOX 826594 " },
+  { id: 14, name: "IBERIA MEDICAL CENTER PHYSICIAN PRACTICE NETWORK", email: "castlingd@wix.com", contact: "577-900-4650", address: "PO BOX 13338 " },
+  { id: 15, name: "VALLEY VIEW REGIONAL HOSPITAL", email: "clebarre@dagondesign.com", contact: "730-747-2663", address: "PO BOX 850 " },
+  { id: 16, name: "JAMES A. HALEY VETERANS ADMINISTRATION HOSPITAL", email: "cgarlantf@imgur.com", contact: "788-290-8908", address: "13000 BRUCE B DOWNS BLVD ATTENTION: DR. SHOHREH IRAVANI" },
+  { id: 17, name: "NORTH COUNTRY HOSPITAL & HEALTH CENTER INC", email: "pandriolig@w3.org", contact: "906-765-9903", address: "81 MEDICAL VILLAGE DR SUITE 4" },
+  { id: 18, name: "HIGHLAND VILLAGE MEDICAL CENTER", email: "mlayeh@live.com", contact: "322-858-6233", address: "PO BOX 840795 " },
+  { id: 19, name: "SAN GERARDO MEDICAL CENTER CSP", email: "slindbacki@spiegel.de", contact: "799-169-7282", address: "PO BOX 916 " },
+  { id: 20, name: "SPRINGFIELD HOSPITAL", email: "lransomj@posterous.com", contact: "641-922-0042", address: "252 RIVER STREET CO NETWORK MANAGEMENT SERVICES" },
+  { id: 21, name: "MONUMENT HEALTH RAPID CITY HOSPITAL, INC.", email: "aasherk@a8.net", contact: "598-263-0521", address: "PO BOX 860013 " },
+  { id: 22, name: "COMMUNITY MEDICAL CENTER INC", email: "egittinsl@disqus.com", contact: "240-582-6901", address: "99 HIGHWAY 37 W " },
+  { id: 23, name: "NTX HOSPITALIST PLLC", email: "mpetrosellim@scribd.com", contact: "493-537-4091", address: "1009 OAKWOOD LN UNIT 120277 " },
+  { id: 24, name: "NEW YORK CITY HEALTH AND HOSPITALS CORPORATION", email: "kkainesn@google.de", contact: "307-724-5803", address: "160 WATER ST ROOM 736" },
+  { id: 25, name: "FLORIDA HOSPITAL ZEPHYRHILLS INC", email: "mvearnalso@cloudflare.com", contact: "770-323-1423", address: "7050 GALL BLVD " }
+  // Add more hospitals as needed
+]
